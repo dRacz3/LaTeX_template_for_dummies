@@ -1,0 +1,13 @@
+del *.ps
+del *.pdf
+del *.aux
+del *.bbl
+del *.blg
+del *.brf
+del *.dvi
+del *.log
+del *.lof
+del *.lot
+del *.out
+del *.toc
+del *.synctex.gz
